@@ -18,9 +18,9 @@
 
 > Links
 
-- [Flask Material Kit2 PRO](https://appseed.us/product/flask-material-kit2-pro) - product page
-- [Flask Material Kit2 PRO](https://flask-material-kit2-pro.appseed-srv1.com/) - LIVE Demo
-- [Flask Material Kit2 PRO](https://docs.appseed.us/products/flask-apps/material-kit-2-pro) - documentation
+- 👉 [Flask Material Kit2 PRO](https://appseed.us/product/flask-material-kit2-pro) - product page
+- 👉 [Flask Material Kit2 PRO](https://flask-material-kit2-pro.appseed-srv1.com/) - LIVE Demo
+- 👉 [Flask Material Kit2 PRO](https://docs.appseed.us/products/flask-apps/material-kit-2-pro) - documentation
 
 <br />
 
