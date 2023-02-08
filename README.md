@@ -1,6 +1,6 @@
 # [Flask Material Kit2 PRO](https://appseed.us/product/material-kit2-pro/flask/)
 
-Seed Project crafed in **Flask** Framework on top of [Material Kit 2 PRO](https://appseed.us/product/material-kit2-pro/flask/) Design (`Bootstrap 5` version). Designed for those who like bold elements and beautiful websites, **Material Kit2 PRO** is ready to help you create stunning websites and web apps. A pixel-perfect design from [Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200)
+Seed Project crafed in **Flask** Framework on top of [Material Kit 2 PRO](https://appseed.us/product/material-kit2-pro/flask/) Design (`Bootstrap 5` version). Designed for those who like bold elements and beautiful websites, **Material Kit2 PRO** is ready to help you create stunning websites and web apps - designed by [Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200).
 
 - 👉 [Flask Material Kit2 PRO](https://appseed.us/product/material-kit2-pro/flask/) - `Product page`
 - 👉 [Flask Material Kit2 PRO](https://flask-material-kit2-pro.appseed-srv1.com/) - `LIVE App`
