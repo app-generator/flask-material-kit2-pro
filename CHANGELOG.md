@@ -1,15 +1,14 @@
 # Change Log
 
-## [1.0.3] 2022-09-09
-### Improvements
+## [1.0.3] 2023-02-08
+### Changes
 
-- Improved Authentication
-  - Visual password strength indicator (registration)  
-  - **Social Login**: `Github` & `Twitter`
-- New Feature: `User Profiles`
-  - `Extended User` profile
-  - `Self-Deletion` option
-- Improved `Docker` Scripts  
+- Deployment-ready for Render (CI/CD)
+  - `render.yaml`
+  - `build.sh`
+- `DB Management` Improvement
+  - `Silent fallback` to **SQLite**
+- `DOCS Update` (readme)  
 
 ## [1.0.2] 2022-06-12
 ### Improvements
