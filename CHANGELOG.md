@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.4] 2023-05-03
+### Changes
+
+- Bump UI: Material Kit2 PRO `v3.0.3`
+
 ## [1.0.3] 2023-02-08
 ### Changes
 
